@@ -1,0 +1,46 @@
+[
+    {
+        "address": {
+            "city": "Bikini Bottom",
+            "state": "Florida",
+            "street": "5 Rock Rd",
+            "zip": 32383
+        },
+        "firstName": "Patrick",
+        "lastName": "Starr",
+        "phoneNumber": "(111)222-3333"
+    },
+    {
+        "address": {
+            "city": "Gotham",
+            "state": "Wisconsin",
+            "street": "1 NotBatman way",
+            "zip": 53540
+        },
+        "firstName": "Bruce",
+        "lastName": "Wayne",
+        "phoneNumber": "(278)239-2963"
+    },
+    {
+        "address": {
+            "city": "New York",
+            "state": "New York",
+            "street": "552 W 9th st",
+            "zip": 10005
+        },
+        "firstName": "Layne",
+        "lastName": "Parish",
+        "phoneNumber": "(555)111-2654"
+    },
+    {
+        "address": {
+            "city": "New York",
+            "state": "New York",
+            "street": "25986 Marvel Ln",
+            "zip": 11201
+        },
+        "firstName": "Steve",
+        "lastName": "Rogers",
+        "phoneNumber": "(678)139-7092"
+    }
+]
